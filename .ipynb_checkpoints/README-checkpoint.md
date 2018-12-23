@@ -1,2 +1,3 @@
 # helpful-python
-This Repo contains helpful python scripts for working with data 
+This repo contains helpful python scripts for working with data
+This repo contains jupyter notebooks for reference 
